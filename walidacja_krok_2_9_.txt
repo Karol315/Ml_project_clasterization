@@ -1,0 +1,23 @@
+Walidacja etapu 2(podział na 2 etapy)
+Plusy
++ Zastosowano różnorodne metryki dla porówania model
++ Graficzne przedstawienie metryk
++ GridSearch do znalezienia optymalnych parametrów dla każdego z porównywanych modeli
++ Graficzne przedstawienie klastrów
++ Użycie tSNE oraz Umap
++ wykresy do oceny interplretowalności
+
+Komentarz
+Nie wskazaliście jednoznacznie, który z testowanych modeli klasteryzacji został ostatecznie wybrany jako najlepszy. Choć przeanalizowano dogłębnie wyniki różnych algorytmów (KMeans, Gaussian Mixture, Agglomerative Clustering).
+Czemu jak wyznaczacie optymalna liczbe klastrow to we wszystkich kategoriach wychodzi wam jakies k a stosujecie ostatecznie inne, większe, np. w Gaussian Mixture wychodzi k=2 a ostatecznie stosujecie 3?(wytłumaczone) 
+- brak podzialu na zestawy treningowy, walidacyjny i testowy
+- brak nazw dla ostatecznych klastrów
+- brak wizualizacji 3D(wytłumaczone, nie wychodziły)
+
+
+
+
+
+
+
+

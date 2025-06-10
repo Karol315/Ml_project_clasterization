@@ -1,0 +1,2 @@
+Walidacja etapu 1(podział na 2 etapy)
+Etap 1 przeprowadzony bardzo dobrze wlascwie uwagi moje bardzo lekkie: które kolumny były poddane OrdinalEncoder a które get_dummies, oraz jak po kodowaniu zmieniły się rozkłady – np. histogramy kluczowych nowych cech. takze w pca mozecie wprowadzic analize waznosci cech. mozna dodać wykres łokcia. mozna pomyslec o grupowaniu klastrow. nwm czy boxploty najlepiej wygladaja ale to juz tam wasza wola.
